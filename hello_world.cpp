@@ -10,7 +10,7 @@ int main(){
 	return 0;
 =======
 int main() {
-	// conflict
+	// conflict21321
   std::string name;
   std::cout << "Enter yout name: ";
   std::cin >> name;
