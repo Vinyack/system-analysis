@@ -2,6 +2,7 @@
 
 // mhm
 int main(){
+	// salo
 	std::string name;
 	std::cout << "Enter yout name: ";
 	std::cin >> name;
